@@ -19,5 +19,5 @@ ________________________________
 Cette repository ai creé pour demonstrer mes connaissanse niveau du Python, SQL, DA. Vous pouver utiliser tout mes decisions, si vous avez besoin.
 Chaque file est un project, quel resout des problemes dans les spheres separeés.
 
-Avec respect, Korchagin Eugeniy
+Avec respect, Korchagin Eugen
 ________________________________
