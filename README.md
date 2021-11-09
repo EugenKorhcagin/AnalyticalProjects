@@ -1,3 +1,5 @@
 # AnalyticalProjects
 AnalyticalProjectsForDifferentBranches
-This repository made for demonstration my skill level of python, SQL, DA, skills. You can use all decisions, if you need. 
+This repository made for demonstration my skill level of python, SQL, DA, skills. You can use all my decisions, if you need. 
+
+Each file is a project, wich solve some analitical problems by separeted sphere
